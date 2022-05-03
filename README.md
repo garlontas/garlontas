@@ -6,10 +6,21 @@ I’m a student at high school in Germany, I love to code and to explore the end
 - 🌱 I’m currently learning advanced Java Spring Boot
 - 📫 How to reach me: stefan@pickwicksoft.org
 - 🌐 My website is: https://www.pickwicksoft.org
-- 🔎 I’m Searching for young developers / students who want to work in a team!
+- 🔎 I’m Searching for young developers / students who want to work in a team
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garlontas&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlontas&hide=html&hide_border=true&layout=compact" /></a> |
-| ------------- | ------------- |
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garlontas&theme=github" /></>
+
+<table align="center">
+<thead>
+<tr>
+<th><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=garlontas&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" align="center"></a></th>
+<th><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlontas&amp;hide=html&amp;hide_border=true&amp;layout=compact" align="center"></a></th>
+</tr>
+</thead>
+</table>
+
+
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=garlontas&row=1&margin-w=15" /></>
 
 <!--
 **garlontas/garlontas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
