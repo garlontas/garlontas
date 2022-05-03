@@ -8,8 +8,6 @@ I’m a student at high school in Germany, I love to code and to explore the end
 - 🌐 My website is: https://www.pickwicksoft.org
 - 🔎 I’m Searching for young developers / students who want to work in a team
 
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garlontas&theme=github" /></>
-
 <table align="center">
 <thead>
 <tr>
