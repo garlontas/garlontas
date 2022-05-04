@@ -16,8 +16,7 @@ I’m a student at high school in Germany, I love to code and to explore the end
 </tr>
 </thead>
 </table>
-
-
+<!--
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=garlontas&row=1&margin-w=15" /></>
 
 <!--
