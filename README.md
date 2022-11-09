@@ -2,8 +2,8 @@
 
 I’m a student at high school in Germany, I love to code and to explore the endless Linux jungle. Open Source mentality is very important to me! 
 
-- 🔭 I’m currently working on [PyStreamAPI](https://github.com/PickwickSoft/pystreamapi)
-- 🌱 I’m currently learning advanced Java Spring Boot
+- 🔭 I’m currently working on [Libraary](https://github.com/PickwickSoft/libraary)
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: https://tawk.to/garlontas
 - 🌐 My website is: https://www.pickwicksoft.org
 - 🔎 I’m Searching for young developers / students who want to work in a team
