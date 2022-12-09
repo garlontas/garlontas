@@ -11,8 +11,8 @@ I’m a student at high school in Germany, I love to code and to explore the end
 <table align="center">
 <thead>
 <tr>
-<th><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=garlontas&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" align="center"></a></th>
-<th><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlontas&amp;hide=html&amp;hide_border=true&amp;layout=compact" align="center"></a></th>
+<th><a href="#"><img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=garlontas&include_orgs=true&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" align="center"></a></th>
+<th><a href="#"><img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=garlontas&include_orgs=true&amp;hide=html&amp;hide_border=true&amp;layout=compact" align="center"></a></th>
 </tr>
 </thead>
 </table>
