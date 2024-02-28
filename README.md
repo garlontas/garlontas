@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a student at high school in Germany, I love to code and to explore the endless Linux jungle. Open Source mentality is very important to me! 
+I’m a Stefan Garlonta, a freelancer and opens source developer from 🇷🇴 living in 🇩🇪 with a passion for Linux, modern and innovative technologies and being out in the mountains!
 
 - 🔭 I’m currently working on [PyStreamAPI](https://github.com/PickwickSoft/pystreamapi)
 - 🌱 I’m currently learning Angular
